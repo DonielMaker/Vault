@@ -3,7 +3,6 @@ id: 1742239347-CSVB
 aliases:
   - wireguard_anleitung
 tags: []
-newLinkFormat: relative
 ---
 
 # wireguard_anleitung
